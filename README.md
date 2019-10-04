@@ -1,6 +1,6 @@
 ## Primeiro Hacktoberfest C007 2019
 
-Adicione sua insignea aqui!
+Adicione sua insígnia aqui!
 Basta apenas colocar sua foto e seu nome com o link para o seu github.
 Mudanças adicionais são bem vindas!
 

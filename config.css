@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background-image: url(blackboard-background.jpg)
+	background-image: url(images/blackboard-background.jpg)
 }
 
 .main{
@@ -9,7 +9,6 @@ body{
 	text-align: center;
 	color: white;
 	font-family: Verdana;
-	font-size: 2.5vw;
 }
 
 .container{
@@ -28,13 +27,12 @@ body{
 }
 
 .imagem img{
-	width: 10vw;
-	height: 20vh;
+	width: 192px;
+	height: 184px;
 }
 
 .texto{
 	text-align: center;
-	width: 10vw;
 }
 
 .pessoa a{
